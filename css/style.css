@@ -6,6 +6,7 @@
     height: 90px;
     size: 150px;;
 
+
 }
 
 
@@ -17,7 +18,12 @@
     width: 100%;
 }
 
-.monitor{
+.top-left.monitor{
 
-    text-align: left;
+    text-align:left;
+    width: 50px;
+    height: 120px;
+    size: 90px;
+
+    
 }
